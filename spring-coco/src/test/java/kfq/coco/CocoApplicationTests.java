@@ -1,10 +1,10 @@
-package com.example.demo;
+package kfq.coco;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringCocoApplicationTests {
+class CocoApplicationTests {
 
 	@Test
 	void contextLoads() {
